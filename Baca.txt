@@ -1,0 +1,19 @@
+gunakan Xampp control panel versi terbaru. (v3.2.2)
+
+letakan folder di htcdoc
+
+buat database bernama "koganime_forum"
+
+buka folder database, import file "koganime_forum.sql"
+
+untuk login member 
+username : rem 
+password : remisthebestgirl
+
+"atau bisa daftar"
+
+
+untuk login admin
+username : admin
+password : admin
+
